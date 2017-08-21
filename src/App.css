@@ -1,0 +1,12 @@
+.card-container {
+  max-width: 680px;
+  margin: 25px auto;
+}
+
+.comments-holder {
+  margin: 15px 0;
+}
+
+.the-post {
+  margin-top: 15px;
+}
